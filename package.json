@@ -1,8 +1,6 @@
 {
-	
-	
-	"author": "Duho Wise",
-	"name": "fcc-learn-npm-package-json",	
+	"name": "fcc-learn-npm-package-json",
+	"author": "foobar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -15,6 +13,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/duhowise/boilerplate-npm.git"
+		"url": "https://idontknow/todo.git"
 	}
 }
