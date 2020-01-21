@@ -1,8 +1,5 @@
 {
-	"author": {
-		"name": "Duho Wise",
-		"email": "duhowise@gmail.com"
-	},
+	"author": "Duho Wise",
 	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
