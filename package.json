@@ -1,6 +1,7 @@
 {
 	"author": "Duho Wise",
 	"name": "fcc-learn-npm-package-json",
+	"description": "An awesome Project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
